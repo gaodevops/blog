@@ -657,6 +657,9 @@ a.article-title:hover {
   background: #efefef;
   margin-top: 10px;
 }
+.article-entry blockquote strong {
+  font-size: 16px;
+}
 .article-entry blockquote footer {
   font-size: 14px;
   margin: 1.6em 0;
