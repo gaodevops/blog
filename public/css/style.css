@@ -596,8 +596,18 @@ a.article-title:hover {
 }
 .article-entry h3 {
   margin: 20px 20px 0px 20px;
-  font-size: 22px;
-  line-height: 29px;
+  font-size: 18px;
+  position: relative;
+  line-height: 25px;
+}
+.article-entry h3:before {
+  content: '.';
+  height: 5px;
+  line-height: 5px;
+  position: absolute;
+  left: -10px;
+  top: 5px;
+  color: #258fb8;
 }
 .article-entry p {
   margin: 0px 20px;
