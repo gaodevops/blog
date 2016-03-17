@@ -54,7 +54,7 @@ Databricks 公司的 Tim Hunter 通过 Spark 演示了使用 TensorFlow 生成�
 Tachyon作为一种内存分布式文件系统，可以存储任何文本格式或Parquet、Avro和Kryo等高效数据类型。我们还可以将结合进Snappy或LZO等压缩算法来减少对内存的占用。与Spark应用的集成非常简单，只需调用DataFrame和RDD的加载存储API并指定路径URL和Tachyon协议即可。
 
 ### [LinkedIn开源元数据管理工具WhereHows](http://www.ctocio.com/ccnews/20483.html?utm_source=tuicool&utm_medium=referral)
-### [Github地址]: (https://github.com/linkedin/WhereHows/wiki/Architecture)
+### [Github地址](https://github.com/linkedin/WhereHows/wiki/Architecture)
 职业社交平台LinkedIn最近开源了元数据管理工具WhereHows（GitHub），该工具可以帮企业员工发现和分享企业内部的元数据, LinkedIn部署了很多数据存储和处理系统，包括Teradata的数据仓库、开源的Hadoop分布式文件系统，开源的Hive数据仓库以及自己开发的开源试试分析软件Pinot。而WhereHows则能帮LinkedIn的员工检索和分享LinkedIn的HDFS系统中超过25000个共享数据集。在数据爆炸的今天，随时掌握企业内部有价值信息的情况（元数据）非常重要，这能大大提高企业员工的信息搜索和分享深度
 
 ### [KVM之父的新作ScyllaDB：用C++开发的Cassandra兼容列数据库，性能提升10倍](http://geek.csdn.net/news/detail/40042?from=timeline&isappinstalled=0)
