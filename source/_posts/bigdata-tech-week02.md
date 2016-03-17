@@ -23,13 +23,6 @@ date: 2016-03-15
 ### [Apache Spark 2.0最快4月亮相 预计效能翻九倍](http://mp.weixin.qq.com/s?__biz=MzA4NjA4MTkzMw==&mid=402943831&idx=2&sn=d47dedea5ed20cfcf8ca582b22336618&scene=23&srcid=0315kZyma2M66E5Q4u6kTLV4#rd)
 1月才刚释出1.6版的大数据技术Spark，下一个2.0版本预计4、5月释出，将提供可运行在SQL/Dataframe上的结构化串流即时引擎，并统一化Dataset及DataFrame。
 
-### [中文版: Databricks整合Spark和TensorFlow用于深度学习模型](http://news.cnblogs.com/n/541070)
-### [英文版: Databricks Integrates Spark and TensorFlow for Deep Learning](http://www.infoq.com/news/2016/03/databricks-spark-tensorflow) 
-Apache Kylin社区宣布Apache Kylin v1.3.0正式发布,这是自顺利毕业成Apache顶级项目后的第二个发布版本,快来看看新变化吧。
-
-### [全新设计的新一代Apache Kylin (v1.5.0) 正式发布](http://mp.weixin.qq.com/s?__biz=MzAwODE3ODU5MA==&mid=403398153&idx=1&sn=b3bea35fdb7816b0cf04de2dee3a69bf&scene=1&srcid=0317pTwtVI18CJXQs1LmUmZE#rd)
-全新的Apache Kylin的Plugin架构使得Kylin可以扩展计算框架，数据源以及Cube存储等。在之前的版本中，Kylin与作为计算框架的Hadoop MapReduce，数据源的Hive及作为存储的HBase耦合紧密。常有人问及例如：Spark可否作为Cubing引擎，或者是否可以使用Cassandra作为存储？我们希望借此重新设计和架构的新版本提供各种可能性，以使得Kylin与最新的技术栈一起演进。这是本次重大更新中最大的变化，同时，新的版本经实践测试，Cubing时间及网络传输可以缩减30～50％、查询速度成倍提升、支持TopN、支持Excel及PowerBI等，另外，实验性的Streaming Cubing技术也随之发布。
-
 ### [超过1600人 大数据行业通讯录1.9版本将于下周三发布](http://www.36dsj.com/archives/43319?utm_source=tuicool&utm_medium=referral)
 由36大数据发起并且运行了一年多的『大数据行业通讯录』目前收录人数已超过1600人，我们将于下周三（3月16日）通过邮件的形式，正式发布到大家手里。
 
@@ -49,6 +42,13 @@ Tableau将收购德国新兴数据处理公司HyPer, HyPer主要处理来自OLTP
 Hortonworks在最新的HDP中集成Spark 1.6, 并会集合用c++重写的Shuffle Engine，提高15x的性能。
 
 ## 大数据工具
+
+### [中文版: Databricks整合Spark和TensorFlow用于深度学习模型](http://news.cnblogs.com/n/541070)
+### [英文版: Databricks Integrates Spark and TensorFlow for Deep Learning](http://www.infoq.com/news/2016/03/databricks-spark-tensorflow) 
+Databricks 公司的 Tim Hunter 通过 Spark 演示了使用 TensorFlow 生成模型选项和一定规模的神经网络处理。Hunter 在描述人工神经网络的时候，将之形容成一个在人脑的视觉皮层里模拟神经元一样，这样的模拟在经过大量充分训练之后，可以被用于处理复杂的输入数据，如图像或音频等等。
+
+### [全新设计的新一代Apache Kylin (v1.5.0) 正式发布](http://mp.weixin.qq.com/s?__biz=MzAwODE3ODU5MA==&mid=403398153&idx=1&sn=b3bea35fdb7816b0cf04de2dee3a69bf&scene=1&srcid=0317pTwtVI18CJXQs1LmUmZE#rd)
+全新的Apache Kylin的Plugin架构使得Kylin可以扩展计算框架，数据源以及Cube存储等。在之前的版本中，Kylin与作为计算框架的Hadoop MapReduce，数据源的Hive及作为存储的HBase耦合紧密。常有人问及例如：Spark可否作为Cubing引擎，或者是否可以使用Cassandra作为存储？我们希望借此重新设计和架构的新版本提供各种可能性，以使得Kylin与最新的技术栈一起演进。这是本次重大更新中最大的变化，同时，新的版本经实践测试，Cubing时间及网络传输可以缩减30～50％、查询速度成倍提升、支持TopN、支持Excel及PowerBI等，另外，实验性的Streaming Cubing技术也随之发布。
 
 ### [变不可能为可能，Tachyon帮助Spark变小时级任务到秒](http://www.vkandian.cn/article/1630651/)
 Tachyon作为一种内存分布式文件系统，可以存储任何文本格式或Parquet、Avro和Kryo等高效数据类型。我们还可以将结合进Snappy或LZO等压缩算法来减少对内存的占用。与Spark应用的集成非常简单，只需调用DataFrame和RDD的加载存储API并指定路径URL和Tachyon协议即可。
