@@ -21,16 +21,13 @@ QCon北京站2016大会特意设置了《大数据应用层层深入》专题，
 ### [Facebook AI 负责人：深度学习技术趋势报告](http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=403039141&idx=1&sn=d2b8103ba3a3a89b78a83c41b10e3856&scene=1&srcid=0331jpGxTMi4CnoOFoiNY1PU#rd)
 Yann LeCun 是卷积神经网络的发明人，Facebook 人工智能研究院的负责人。下文的 150 张 PPT，是 LeCun 对深度学习领域的全面而细致的思考。LeCun 非常坚定看好无监督学习，认为无监督学习是能够提供足够信息去训练数以十亿计的神经网络的唯一学习形式
 
-### [Cloudera highlights public cloud push at analyst day](http://www.zdnet.com/article/cloudera-highlights-public-cloud-push-at-analyst-day/)
-Cloudera plans public cloud push as applications multiply in financial services, insurance, life sciences, retail and telecommunications. Hadoop may not be easy, but it is gaining mainstream adoption.
-
 ### [Docker推出Mac、Windows的Beta版](http://www.infoq.com/cn/news/2016/03/Docker-Mac-Windows-Beta)
 近日，Docker公司宣布启动一项Docker for Mac和Docker for Windows有限Beta测试计划。
 
-### [Apache Spark和Apache Flink，如何选择？](http://www.infoq.com/cn/news/2016/03/Apache-Spark-Apache-Flink-choose)
-近日，MapR Technologies产品经理Balaji Mohanam在公司内部的白板演示中比较了Apache Spark和Apache Flink的不同之处，用户可以参考这种比较做出选择。
-
 ### [大数据与机器学习周报](http://www.infoq.com/cn/news/2016/03/big-data-weekly-3)
+
+### [Cloudera highlights public cloud push at analyst day](http://www.zdnet.com/article/cloudera-highlights-public-cloud-push-at-analyst-day/)
+Cloudera plans public cloud push as applications multiply in financial services, insurance, life sciences, retail and telecommunications. Hadoop may not be easy, but it is gaining mainstream adoption.
 
 
 ## 大数据工具
@@ -40,6 +37,9 @@ Apache Flink 1.0.0版近日发布了。Flink是分布式流和数据批处理的
 
 ### [Flink on YARN部署快速入门指南](http://www.iteblog.com/archives/1620?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 pache Flink是一个高效、分布式、基于Java和Scala实现的通用大数据分析引擎，它具有分布式 MapReduce一类平台的高效性、灵活性和扩展性以及并行数据库查询优化方案，它支持批量和基于流的数据分析，且提供了基于Java和Scala的API。从Flink官方文档可以知道，目前Flink支持三大部署模式：Local、Cluster以及Cloud
+
+### [Apache Spark和Apache Flink，如何选择？](http://www.infoq.com/cn/news/2016/03/Apache-Spark-Apache-Flink-choose)
+近日，MapR Technologies产品经理Balaji Mohanam在公司内部的白板演示中比较了Apache Spark和Apache Flink的不同之处，用户可以参考这种比较做出选择。
 
 ### [Kafka数据流：让流处理更轻松（上）](http://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=403011482&idx=1&sn=0e60522ca1309544ebbb2da088f37601&scene=25#wechat_redirect)
 ### [Kafka数据流：让流处理更轻松（中）](http://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=403122246&idx=1&sn=54dab5fc04316a153d84517a4ecd3acb&scene=1&srcid=0330LQyp3FCRlmtOkOAtkEvW#rd)
