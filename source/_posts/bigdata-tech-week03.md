@@ -43,6 +43,7 @@ Yann LeCun 是卷积神经网络的发明人，Facebook 人工智能研究院的
 ### [谷歌开放语音识别的API](http://tech.sina.com.cn/it/2016-03-24/doc-ifxqswxn6327980.shtml)
 谷歌在Next云计算大会上发布了面向开发者的新机器学习平台，并开放语音识别的API（应用程序编程接口），谷歌机器学习负责人杰夫·迪恩随后介绍称，随着近年来机器学习技术的逐渐成熟，谷歌正加快步伐在主要平台部署机器学习技术
 
+
 ## 大数据工具
 
 ### [Apache Flink 1.0.0版本发布](http://www.infoq.com/cn/news/2016/03/Apache-Flink-1.0.0-Released?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text)
@@ -72,6 +73,9 @@ Apache Kafka的一项新功能预览叫Kafka Streams。Kafka Streams是一个使
 
 ### [Spark和HBase上的推荐系统](http://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=403066948&idx=1&sn=7fb46506857cf2708a4da3781b3aeab7&scene=1&srcid=03277FzUUzf7fAGzIO1mjWgL#rd)
 介绍了Spark和HBase上的推荐系统。
+
+### [大道至简的数据治理方法论](http://mp.weixin.qq.com/s?__biz=MjM5MTYwMjI3Mw==&mid=404339733&idx=4&sn=2f62fde31e2206b11c700b3831a8843b&scene=23&srcid=0331flw6CNZMa48EqFaaqb97#rd)
+数据治理是一项基础工作，在很多人眼中是一项苦活儿累活儿，但是越是这样的工作越是不能忽视，基础打扎实了，上层建筑才会更稳固。数据分析师的角色犹如一位大厨，原料有问题，大厨肯定烹饪不出色香味俱佳的大菜，数据有问题，数据分析师得出的结论自然也就不可靠。
 
 
 ## 大数据案例
