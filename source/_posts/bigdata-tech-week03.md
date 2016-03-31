@@ -9,6 +9,7 @@ date: 2016-03-31
     2.Google首席科学家及Facebook AI负责人深度学习PPT分享。
     3.Apache Flink 1.0.0版本发布。
 	4.Docker推出Mac、Windows的Beta版。
+    5.谷歌开放语音识别API 发布机器学习云平台。
 
 ## 大数据业界
 
@@ -33,8 +34,14 @@ Yann LeCun 是卷积神经网络的发明人，Facebook 人工智能研究院的
 ### [深度 | 资深架构师教你一篇文看懂Hadoop](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=405469032&idx=1&sn=221f2ef4bf1639df394d14d2386b6505&scene=23&srcid=0331Lh78zD63wraF9G1tUHfv#rd)
 现在Hadoop俨然已经成为企业数据平台的“新常态”。我们很荣幸能够见证Hadoop十年从无到有，再到称王。在我们感动于技术的日新月异时，希望能通过本文能为Hadoop的昨天、今天和明天做出一点自己的解读，算是为Hadoop庆祝10岁生日献上的礼物。
 
-### [大数据与机器学习周报](http://www.infoq.com/cn/news/2016/03/big-data-weekly-3)
+### [百度大数据实验室发布人群预测技术](http://blogs.wsj.com/chinarealtime/2016/03/23/crowd-control-baidu-has-an-algorithm-for-that/)
+聚合用户对百度地图查询数据，可以预测未来特定的时间和区域内的人数。对百度地图数据仔细分析和深入的调查还证明地图查询的数量和在一个区域定位的用户数之间有很强的相关关系。
 
+### [微软人工智能聊天机器人Tay曝光：或亮相Build2016](http://www.ithome.com/html/next/213508.htm)
+微软在人工智能领域被人们知晓的有微软小娜）、小冰，属于智能语音助理。此前人机围棋大战中，谷歌AlphaGo大胜李世石，AI（人工智能）话题再次被引爆，Build2016即将带来，微软在AI方面会有哪些进展呢？
+
+### [谷歌开放语音识别的API](http://tech.sina.com.cn/it/2016-03-24/doc-ifxqswxn6327980.shtml)
+谷歌在Next云计算大会上发布了面向开发者的新机器学习平台，并开放语音识别的API（应用程序编程接口），谷歌机器学习负责人杰夫·迪恩随后介绍称，随着近年来机器学习技术的逐渐成熟，谷歌正加快步伐在主要平台部署机器学习技术
 
 ## 大数据工具
 
