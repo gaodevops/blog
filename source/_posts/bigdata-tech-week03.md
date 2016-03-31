@@ -55,6 +55,7 @@ pache Flink是一个高效、分布式、基于Java和Scala实现的通用大数
 
 ### [Kafka数据流：让流处理更轻松（上）](http://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=403011482&idx=1&sn=0e60522ca1309544ebbb2da088f37601&scene=25#wechat_redirect)
 ### [Kafka数据流：让流处理更轻松（中）](http://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=403122246&idx=1&sn=54dab5fc04316a153d84517a4ecd3acb&scene=1&srcid=0330LQyp3FCRlmtOkOAtkEvW#rd)
+Apache Kafka的一项新功能预览叫Kafka Streams。Kafka Streams是一个使用Apache Kafka用于构建分布流处理应用的Java库。
 
 ### [基于Locust、Tsung的百万并发秒杀压测](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=405352450&idx=1&sn=77485a9f0d1e504c8a6068e3b60f81c7&scene=1&srcid=0330hEp9JhumLM3Xy2IzDNsv#rd)
 此次实验设立的目标是在物理资源最小值的情况下完成 100 万并发处理，通过此次实验，最大化验证了基于 Mesos 和 Docker 技术的数人云 DCOS （数据中心操作系统）承载高压的能力。
