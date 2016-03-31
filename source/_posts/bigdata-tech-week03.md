@@ -6,7 +6,7 @@ date: 2016-03-31
 > ** 小编导读：**
     「地图大数据智能团队」依托地图海量数据资源，运用大数据仓库、大数据计算、大数据可视化等技术，提供智能化的大数据产品与服务，我们时刻关注大数据业界前沿动态与最新技术，倾情为大家推出大数据技术半月刊，本期主要精彩内容包含：
     1.QCon北京站2016大会将于4月21~23日北京国际会议中心举办。
-    2.Google首席科学家及Google首席科学家PPT分享。
+    2.Google首席科学家及Facebook AI负责人深度学习PPT分享。
     3.Apache Flink 1.0.0版本发布。
 	4.Docker推出Mac、Windows的Beta版。
 
@@ -24,10 +24,16 @@ Yann LeCun 是卷积神经网络的发明人，Facebook 人工智能研究院的
 ### [Docker推出Mac、Windows的Beta版](http://www.infoq.com/cn/news/2016/03/Docker-Mac-Windows-Beta)
 近日，Docker公司宣布启动一项Docker for Mac和Docker for Windows有限Beta测试计划。
 
-### [大数据与机器学习周报](http://www.infoq.com/cn/news/2016/03/big-data-weekly-3)
+### [全球难度最大的AI竞赛 对冲基金“宽客”夺魁](http://m.wallstreetcn.com/node/234239?from=timeline&isappinstalled=0)
+尽管基金的交易台和医生的手术台完全扯不上关系，但两位对冲基金出身的“宽客”却合力研发出一种通过核磁共振（MRI）图像来诊断心脏疾病的程序，使其在全球最难的人工智能竞赛中力压近千只队伍最终夺魁。
 
-### [Cloudera highlights public cloud push at analyst day](http://www.zdnet.com/article/cloudera-highlights-public-cloud-push-at-analyst-day/)
-Cloudera plans public cloud push as applications multiply in financial services, insurance, life sciences, retail and telecommunications. Hadoop may not be easy, but it is gaining mainstream adoption.
+### [从数据仓库到大数据，数据平台这25年是怎样进化的？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=403107070&idx=1&sn=7439547179076813bdb23f169af7139a&scene=23&srcid=0331wdQQbadMye0I0hHRMozP#rd)
+从「数据仓库」一词到现在的「大数据」，中间经历了太多的知识、架构模式的演进与变革。数据平台这25年究竟是怎样进化的？看完本文你讲受益匪浅。
+
+### [深度 | 资深架构师教你一篇文看懂Hadoop](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=405469032&idx=1&sn=221f2ef4bf1639df394d14d2386b6505&scene=23&srcid=0331Lh78zD63wraF9G1tUHfv#rd)
+现在Hadoop俨然已经成为企业数据平台的“新常态”。我们很荣幸能够见证Hadoop十年从无到有，再到称王。在我们感动于技术的日新月异时，希望能通过本文能为Hadoop的昨天、今天和明天做出一点自己的解读，算是为Hadoop庆祝10岁生日献上的礼物。
+
+### [大数据与机器学习周报](http://www.infoq.com/cn/news/2016/03/big-data-weekly-3)
 
 
 ## 大数据工具
@@ -40,6 +46,12 @@ pache Flink是一个高效、分布式、基于Java和Scala实现的通用大数
 
 ### [Apache Spark和Apache Flink，如何选择？](http://www.infoq.com/cn/news/2016/03/Apache-Spark-Apache-Flink-choose)
 近日，MapR Technologies产品经理Balaji Mohanam在公司内部的白板演示中比较了Apache Spark和Apache Flink的不同之处，用户可以参考这种比较做出选择。
+
+### [图形数据库 Neo4J 简介](http://www.cnblogs.com/loveis715/p/5277051.html)
+在本文中，我们就将对业界非常流行的图形数据库Neo4J进行简单的介绍。
+
+### [Apache Storm内部原理分析](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402753092&idx=1&sn=a6a1190241481357a3adc29f1733b550&scene=23&srcid=0330rtd80OOPAOKtHwEGdbAL#rd)
+本文是对Storm应用和学习的一个总结，由于不太懂Clojure语言，作者参考了官网、很多优秀的文章，以及《Storm Applied: Strategies for real-time event processing》这本书，以及结合自己使用Storm的经历，希望对于想深入一点了解Storm原理的朋友能有所帮助，
 
 ### [Kafka数据流：让流处理更轻松（上）](http://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=403011482&idx=1&sn=0e60522ca1309544ebbb2da088f37601&scene=25#wechat_redirect)
 ### [Kafka数据流：让流处理更轻松（中）](http://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=403122246&idx=1&sn=54dab5fc04316a153d84517a4ecd3acb&scene=1&srcid=0330LQyp3FCRlmtOkOAtkEvW#rd)
@@ -55,6 +67,12 @@ pache Flink是一个高效、分布式、基于Java和Scala实现的通用大数
 
 
 ## 大数据案例
+
+### [如何建立完整可用的安全大数据平台](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=405384922&idx=6&sn=1e59f8904d32b41c080f3d41b47f6de7&scene=1&srcid=0331DL6LDkIJrDL8sEaPX4GX#rd)
+要建立一个大数据系统，我们需要从数据流的源头跟踪到最后有价值的输出，并在现有的Hadoop和大数据生态圈内根据实际需求挑选并整合各部分合适的组件来构建一个能够支撑多种查询和分析功能的系统平台。这其中既包括了对数据存储的选择，也涵盖了数据线上和线下处理分离等方面的思考和权衡。此外，没有任何一个引入大数据解决方案的商业应用在生产环境上承担的起安全隐患
+
+### [腾讯云分析 一款态度低调功能奢华的移动大数据分析产品](http://mp.weixin.qq.com/s?__biz=MjM5MTYwMjI3Mw==&mid=404468513&idx=1&sn=5108ae39d8ecc9c797f03817d09e5a56&scene=23&srcid=0331rhcszEYPAz1aZo3zw2rW#rd)
+本文为大家介绍腾讯在移动大数据方面的一款专业的移动应用统计分析工具——腾讯云分析。为移动开发者提供多种精准的数据统计分析，帮助开发者优化产品策略，延长生命周期用户行为的工具。
 
 ### [惊艳全球数据行业的16个数据可视化例子](http://mp.weixin.qq.com/s?__biz=MjM5MjAxMDM4MA==&mid=403394463&idx=1&sn=dd7f917d2a34dff4746004fba33c3485&scene=1&srcid=0331NWIREinZEz3bJMM5GCDB#rd)
 数据可视化可以是静态的或交互的。几个世纪以来，人们一直在使用静态数据可视化，如图表和地图。交互式的数据可视化则相对更为先进：人们能够使用电脑和移动设备深入到这些图表和图形的具体细节，然后用交互的方式改变他们看到的数据及数据的处理方式
@@ -88,6 +106,12 @@ Redis的事件循环在一个线程中处理，作为一个单线程程序，重
 
 ### [Airbnb的大数据平台架构](http://www.infoq.com/cn/articles/Airbnb-Hadoop-Hive)
 Airbnb成立于2008年8月，拥有世界一流的客户服务和日益增长的用户社区。随着Airbnb的业务日益复杂，其大数据平台数据量也迎来了爆炸式增长。
+
+### [有赞搜索引擎实践(工程篇)](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402588304&idx=1&sn=f91979642482f3996147727e5b72262f&scene=23&srcid=03305UWVnVX67iSfivtEpmlz#rd)
+本文介绍了有赞搜索引擎的架构, 重点对索引创建机制, 高级搜索模块的功能做了阐述, 最后列举了几个常见的性能优化的场景。本文的主要目的是能够对搭建商用电商搜索引擎给读者一个一般性的建议. 
+
+### [mmTrix大数据分析平台构建实录](http://mp.weixin.qq.com/s?__biz=MzA3MjY1MTQwNQ==&mid=402088492&idx=1&sn=629764499743dd0fd8058533c9e0f272&scene=23&srcid=0330kSNGCeTdgV24VhfgSc7E#rd)
+本文详细介绍了mmTrix大数据分析平台的基本架构构建过程，基于Hadoop的大数据分析平台逐步实现mmTrix APM后端数据的存储、分析、挖掘，同时随着业务的更迭也加速驱动数据的平台化。
 
 
 
